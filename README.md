@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm Ajay Dangoriya Tharu from Nepal<br><br>- 🔭 I’m working as Student<br>- 📚 I'm currently learning Btech CSE<br>- ⚡ In my free time I exploring new technlogy..</p>
+<p align="left">I'm Ajay Dangoriya Tharu<br><br>- 🔭 I’m working as Student<br>- 📚 I'm currently learning Btech CSE<br>- ⚡ In my free time I exploring new technlogy..</p>
 
 ###
 
