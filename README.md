@@ -22,7 +22,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey There 👋</h1>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm Ajay Dangoriya Tharu<br><br>- 🔭 I’m working as Student<br>- 📚 I'm currently learning Btech CSE<br>- ⚡ In my free time I exploring new technlogy..</p>
+### <p align="left">I'm Ajay Dangoriya Tharu<br><br>- 🔭 I’m working as Student<br>- 📚 I'm currently learning Btech CSE<br>- ⚡ In my free time I exploring new technlogy..</p>
 
 ###
 
