@@ -68,3 +68,6 @@ You may also see any lint errors in the console.
 ### `npm i uuid`
 ### `npm i react beautiful dnd`
 ### `npm i react-dom`
+### `npm install @mui/material @emotion/react @emotion/styled`
+### `npm install @mui/icons-material @mui/material @emotion/styled @emotion/react`
+### ``
