@@ -41,7 +41,7 @@
 <div align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="40" alt=" React logo"  />
   <img width="12" />
-  <img src="[[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg](https://cdn.worldvectorlogo.com/logos/react-2.svg)](https://cdn.worldvectorlogo.com/logos/material-ui-1.svg)" height="40" alt="Material logo"  />
+  <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" height="40" alt="Material logo"  />
   <img width="12" />
 
 
